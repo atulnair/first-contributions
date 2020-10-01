@@ -3,4 +3,5 @@
 [Rohith Vazhathody](https://github.com/Rohithv07)  
 [Navaneeth D](https://github.com/navaneethsdk)  
 [Amal PB](https://github.com/meamalpb)  
-[Akshay Vinod](https://github.com/akshay-vinod)
+[Amarnath C N](https://github.com/cnamar)   
+[Akshay Vinod](https://github.com/akshay-vinod)  
