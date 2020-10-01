@@ -3,5 +3,6 @@
 [Rohith Vazhathody](https://github.com/Rohithv07)  
 [Navaneeth D](https://github.com/navaneethsdk)  
 [Amal PB](https://github.com/meamalpb)  
+[Noel Thekkethala](https://github.com/NFuture)  
 [Amarnath C N](https://github.com/cnamar)   
 [Akshay Vinod](https://github.com/akshay-vinod)  
