@@ -1,4 +1,5 @@
 [Atul Nair](https://github.com/atulnair)
+[Rejath T M](https://github.com/Rj777pain)
 [Rohith Vazhathody](https://github.com/Rohithv07)
 [Navaneeth D](https://github.com/navaneethsdk)
 [Amal PB](https://github.com/meamalpb)
