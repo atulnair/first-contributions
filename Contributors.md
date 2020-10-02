@@ -12,4 +12,5 @@
 [Harikrishnan R U](https://github.com/haridot04)  
 [Shreelakshmi Lanish](https://github.com/slanish6)  
 [Rosemary Benny](https://github.com/Rosemary-benny)   
-[Abil Savio](https://github.com/Abuzzz007)
+[Muhammed Hashir](https://github.com/hashirpm)  
+[Abil Savio](https://github.com/Abuzzz007)  
