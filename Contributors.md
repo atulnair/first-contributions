@@ -14,4 +14,6 @@
 [Rosemary Benny](https://github.com/Rosemary-benny)  
 [Muhammed Hashir](https://github.com/hashirpm)  
 [Abil Savio](https://github.com/Abuzzz007)  
-[Gokul P Dinesh](https://github.com/CyberFlaw)
+[Gokul P Dinesh](https://github.com/CyberFlaw)  
+[Athul n nair](https://github.com/athulnn)  
+[Emil Titus](https://github.com/Mr-Skully)  
