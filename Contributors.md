@@ -11,6 +11,8 @@
 [Ashwin Rajesh](https://github.com/Ashwin-Rajesh)  
 [Harikrishnan R U](https://github.com/haridot04)  
 [Shreelakshmi Lanish](https://github.com/slanish6)  
+[Rosemary Benny](https://github.com/Rosemary-benny)   
+[Sooraj Bhaskaran](https://github.com/sura999)  
 [Rosemary Benny](https://github.com/Rosemary-benny)  
 [Muhammed Hashir](https://github.com/hashirpm)  
 [Abil Savio](https://github.com/Abuzzz007)
@@ -19,3 +21,4 @@
 [Gokul P Dinesh](https://github.com/CyberFlaw)  
 [Athul n nair](https://github.com/athulnn)  
 [Emil Titus](https://github.com/Mr-Skully)  
+
