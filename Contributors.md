@@ -8,3 +8,4 @@
 [Akshay Vinod](https://github.com/akshay-vinod)  
 [Jishnu Suresh](https://github.com/lonebots)
 [Aashik M S](https://github.com/aashik1998)
+[Harikrishnan R U](https://github.com/haridot04)
