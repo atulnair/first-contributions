@@ -7,7 +7,8 @@
 [Amarnath C N](https://github.com/cnamar)  
 [Akshay Vinod](https://github.com/akshay-vinod)  
 [Jishnu Suresh](https://github.com/lonebots)  
-[Aashik M S](https://github.com/aashik1998)  
+[Aashik M S](https://github.com/aashik1998)
+[Abdul Adhil PK](https://github.com/adhilcodes)  
 [Ashwin Rajesh](https://github.com/Ashwin-Rajesh)  
 [Harikrishnan R U](https://github.com/haridot04)  
 [Shreelakshmi Lanish](https://github.com/slanish6)  
@@ -25,7 +26,8 @@
 [Athul n nair](https://github.com/athulnn)  
 [Emil Titus](https://github.com/Mr-Skully)  
 [Muhammad Yoonus](https://github.com/yoonus47)  
-[Abhinav Thomas](https://github.com/AbhiTom2000)  
+[Abhinav Thomas](https://github.com/AbhiTom2000)   
 [Mohammed shibin](https://github.com/MohdShibin)  
+[Akhila K](https://github.com/AKHILAK23) 
 
 
